@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Taller03</string>
+    <string name="facebook_app_id">294516631563237</string>
+    <string name="fb_login_protocol_scheme">fb294516631563237</string>
+    <string name="prefs_file">com.example.taller03.PREFERENCE_FILE_KEY</string>
+
+</resources>
